@@ -140,7 +140,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ## 📬 Contact
 
-Created by [Your Name] - feel free to contact me!
+Created by Soumya Mishra - feel free to contact me!
 
 ---
 
