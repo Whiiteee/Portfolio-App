@@ -86,15 +86,15 @@ export default function About() {
             <div className="grid grid-cols-2 gap-4 pt-4">
               <div>
                 <h4 className="font-bold mb-2">Name:</h4>
-                <p className="text-gray-600 dark:text-gray-400">Your Name</p>
+                <p className="text-gray-600 dark:text-gray-400">Soumya Mishra</p>
               </div>
               <div>
                 <h4 className="font-bold mb-2">Email:</h4>
-                <p className="text-gray-600 dark:text-gray-400">contact@example.com</p>
+                <p className="text-gray-600 dark:text-gray-400">soumyamishra2099@gmail.com</p>
               </div>
               <div>
                 <h4 className="font-bold mb-2">Location:</h4>
-                <p className="text-gray-600 dark:text-gray-400">San Francisco, CA</p>
+                <p className="text-gray-600 dark:text-gray-400">Nagpur, Maharashtra, India</p>
               </div>
               <div>
                 <h4 className="font-bold mb-2">Availability:</h4>
