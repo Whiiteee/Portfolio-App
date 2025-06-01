@@ -8,7 +8,7 @@ export default function Footer() {
       <div className="container mx-auto px-4">
         <div className="grid md:grid-cols-3 gap-8">
           <div>
-            <h3 className="text-xl font-bold mb-4">Your Name</h3>
+            <h3 className="text-xl font-bold mb-4">Soumya</h3>
             <p className="text-gray-400 mb-4">
               A passionate Full Stack Developer and UI/UX Designer based in San Francisco, CA.
             </p>
