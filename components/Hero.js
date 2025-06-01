@@ -59,17 +59,17 @@ export default function Hero() {
           <div className="aspect-square rounded-full overflow-hidden border-4 border-primary/20 shadow-xl max-w-md mx-auto">
             {/* Replace with your profile image */}
             <div className="w-full rounded-full h-full bg-gradient-to-br from-primary/20 to-accent/20 flex items-center justify-center">
-              <span className="text-6xl">👋</span>
+              {/* <span className="text-6xl">👋</span> */}
               {/* Uncomment and use your own image */}
-              {/* <Image 
-                src="/profile.jpg" 
+              <Image 
+                src="/profile.png" 
                 alt="Your Name" 
                 // fill 
-                height={450}
-                width={450}
+                height={750}
+                width={750}
                 className="object-cover rounded-full"
                 priority
-              /> */}
+              />
              
             </div>
           </div>
