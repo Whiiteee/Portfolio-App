@@ -89,7 +89,7 @@ export default function Contact() {
                 <div className="ml-4">
                   <h4 className="text-md font-medium">Email</h4>
                   <a href="mailto:contact@example.com" className="text-gray-600 dark:text-gray-400 hover:text-primary dark:hover:text-primary transition-colors">
-                    contact@example.com
+                    soumyamishra2099@gmail.com
                   </a>
                 </div>
               </div>
@@ -103,7 +103,7 @@ export default function Contact() {
                 <div className="ml-4">
                   <h4 className="text-md font-medium">Phone</h4>
                   <a href="tel:+1234567890" className="text-gray-600 dark:text-gray-400 hover:text-primary dark:hover:text-primary transition-colors">
-                    +1 (234) 567-890
+                    +91 7058920175
                   </a>
                 </div>
               </div>
@@ -118,7 +118,7 @@ export default function Contact() {
                 <div className="ml-4">
                   <h4 className="text-md font-medium">Location</h4>
                   <p className="text-gray-600 dark:text-gray-400">
-                    San Francisco, CA, USA
+                    Nagpur, Maharashtra, India
                   </p>
                 </div>
               </div>
