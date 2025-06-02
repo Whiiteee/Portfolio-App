@@ -65,8 +65,8 @@ export default function Hero() {
                 src="/profile.png" 
                 alt="Your Name" 
                 // fill 
-                height={750}
-                width={750}
+                height={533}
+                width={510}
                 className="object-cover rounded-full"
                 priority
               />
