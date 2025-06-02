@@ -58,17 +58,18 @@ export default function Hero() {
         <div className="relative">
           <div className="aspect-square rounded-full overflow-hidden border-4 border-primary/20 shadow-xl max-w-md mx-auto">
             {/* Replace with your profile image */}
-            <div className="w-full rounded-full h-full bg-gradient-to-br from-primary/20 to-accent/20 flex items-center justify-center">
+            <div className="w-full rounded-full h-full bg-gradient-to-br from-primary/20 to-accent/20 flex items-center justify-center relative overflow-hidden">
               {/* <span className="text-6xl">👋</span> */}
               {/* Uncomment and use your own image */}
               <Image 
                 src="/profile.png" 
                 alt="Your Name" 
-                fill 
-                className="object-cover rounded-full"
+                fill
+                sizes="(max-width: 768px) 100vw, 450px"
+                className="object-cover"
+                style={{ objectFit: 'cover', objectPosition: 'center' }}
                 priority
               />
-             
             </div>
           </div>
           
